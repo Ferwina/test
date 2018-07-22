@@ -1,6 +1,8 @@
 DESCRIPTION: created 7.22.2018
 
 PROJECT TITLE: test
+
+NOTES: 
 Extremely new to coding. Lots to learn.
 
 MOTIVATION:
